@@ -1,5 +1,3 @@
-using System.Text.Json.Serialization;
-
 namespace ReceiptProcessor.Model
 {
     public class Receipt
