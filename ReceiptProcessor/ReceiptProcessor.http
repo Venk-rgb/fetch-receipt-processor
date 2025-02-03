@@ -1,0 +1,5 @@
+@ReceiptProcessor_HostAddress = http://localhost:5133
+
+POST {{ReceiptProcessor_HostAddress}}/receipts/process
+Accept: application/json
+###
